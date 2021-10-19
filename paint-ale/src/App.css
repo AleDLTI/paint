@@ -1,0 +1,131 @@
+body{
+ background-color: #f3f6f4; 
+}
+
+.pallete{
+  background-color: #b0c4b5;
+  display: flex;
+  height: 80px;
+}
+ button{ 
+  border-radius: 5px;
+  font-family: 'Press Start 2P', cursive;
+  font-size: 1em;
+  
+}
+ .new{
+  background-color:#ff7474;
+  color: white;
+  border-color: white;
+  border-width: 3px;
+  height: 50px;
+ }
+  .print{
+  background-color:#ff7474;
+  color: white;
+  border-color: white;
+  border-width: 3px;
+  height: 50px;
+ }
+
+ h3{
+  font-family: 'Passion One', cursive;
+  color:#1e6186;
+ }
+
+.colors{
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: column;
+
+}
+ .negro{
+  color: #000;
+  background-color: #000;
+  height: 30px;
+ }
+
+ .cafe{
+  color: #7f6000;
+  background-color: #7f6000;
+  height: 30px;
+ }
+
+
+ .blanco{
+  color: #fff;
+  background-color: #fff;
+  height: 30px;
+ }
+.gris{
+  color: #ccc;
+  background-color: #ccc;
+  height: 30px;
+ }
+ .rojo{
+  color: #f00;
+  background-color: #f00;
+  height: 30px;
+ }
+ .rosa{
+  color:#ffccf3;
+  background-color: #ffccf3;
+  height: 30px;
+ }
+
+ .naranja{
+  color: #ff8000;
+  background-color: #ff8000;
+  height: 30px;
+ }
+ .durazno{
+  color: #fff2cc;
+  background-color: #fff2cc;
+  height: 30px;
+ }
+
+ .amarillo{
+  color: #e5ff00;
+  background-color: #e5ff00;
+  height: 30px;
+ }
+ .beige{
+  color: #F3FFCC;
+  background-color: #F3FFCC;
+  height: 30px;
+ }
+
+ .verde{
+  color: #0f0;
+  background-color: #0f0;
+  height: 30px;
+ }
+ .turquesa{
+  color:  #daffcc;
+  background-color:   #daffcc;
+  height: 30px;
+ }
+
+ .azul{
+  color: #00f;
+  background-color: #00f;
+  height: 30px;
+ }
+
+ .azulito{
+  color:  #ccf3ff;
+  background-color:   #ccf3ff;
+  height: 30px;
+ }
+
+ .morado{
+  color: #8000ff;
+  background-color: #8000ff;
+  height: 30px;
+ }
+
+.moradito{
+  color:  #d8ccff;
+  background-color:   #d8ccff;
+  height: 30px;
+ }
